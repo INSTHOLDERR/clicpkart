@@ -1,0 +1,167 @@
+
+#search-input{
+    width: 500px;
+    height: 50px;
+    /* text-align: center; */
+}
+
+
+
+
+
+
+
+
+/* sub page */
+#catogory{
+    height: 100px;
+     /* background-color: aquamarine;  */
+     text-align: center;
+}
+
+#heading{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+#image-div{
+    height: 500px;
+    /* background-color: rgb(214, 232, 17); */
+}
+#details-div{
+
+    height: 500px;
+    /* background-color: rgb(25, 167, 203); */
+
+}
+#price-div{
+
+    height: 500px;
+    /* background-color: rgb(203, 25, 52); */
+
+}
+
+#title{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: serif;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+#brand{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#discription{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+#price{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+#discountPercentage{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    color:#388e3c;
+    margin-left: 40px;
+    
+}
+#rating{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    margin-left: 40px;
+}
+#stock{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    margin-left: 40px;
+}
+
+#images{
+    margin-top: 25px;
+    height: 450px;
+    width: 330px;
+    object-fit: contain;
+    
+
+}
+#detail{
+border: 5px solid black;
+margin-top: 20px;
+
+}
+#Search-input{
+    width: 400px;
+    height: 50px;
+    border: 3px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    /* gap: 20px; */
+
+}
+#Search{
+    height: 50px;
+    width: 150px;
+    font-size: 30px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+
+
+/*  */
+
+.productsss{
+    height: 500px; 
+    /* background-color: bisque; */
+    margin-top: 20px;
+}
+.main-coll{
+    height: 500px;
+    width: 100%;
+    text-align: center;
+}
+.main-image{
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    
+}
+.main-btn{
+    width: 200px;
+    height: 80px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: white;
+    font-family: Georgia, serif;
+    border: 3px solid black;
+}
+.name-board{
+    font-size: 70px;
+    margin-top: 50px;
+    font-weight: bold;
+    font-family: cursive;
+    background-image: url(./images/shoping.jpg);
+    color:black;
+}
